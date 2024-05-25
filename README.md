@@ -12,7 +12,7 @@ At the top-right corner of the Extensions page, toggle on "Developer mode". This
 
 ---Load Your Extension:
 After enabling developer mode. Click on "Load unpacked".
-Navigate to the directory where the extension files (manifest.json, brave_memory_manager.js, etc.) are located, and select the folder.
+Navigate to the directory where the extension files (manifest.json n brave_memory_manager.js) you saved are located, and select the folder.
 
 ---Confirm Extension Load:
 After selecting the directory, Brave will load your extension. You should see your extension listed on the Extensions page with its icon displayed.
