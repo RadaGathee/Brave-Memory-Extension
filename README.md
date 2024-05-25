@@ -1,7 +1,8 @@
 # Brave-Memory-Extension
 The extension periodically checks all open tabs and suspends inactive tabs in the Brave browser.
-This helps free up system resources - Timer set to 60seconds()
-Setting it up: 
+This helps free up system resources - Timer set to 60seconds
+
+-Setting it up: 
 ---Open Brave Browser:
 Click on the three horizontal lines (menu icon) in the top-right corner of the browser.
 From the menu, select "Extensions". This will open the Extensions page.
