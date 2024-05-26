@@ -16,5 +16,5 @@ function suspendInactiveTabs() {
     });
 }
 
-// After every 60 seconds
-setInterval(suspendInactiveTabs, 60000);
+// After every 10 seconds
+setInterval(suspendInactiveTabs, 10000);
