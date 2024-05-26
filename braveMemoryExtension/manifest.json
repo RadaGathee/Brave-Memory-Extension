@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Brave Memory Manager",
   "version": "1.0",
-  "description": "A memory management extension for Brave browser.",
+  "description": "Suspends inactive tabs after 60s saving on memory.",
   "permissions": [
     "tabs"
   ],
