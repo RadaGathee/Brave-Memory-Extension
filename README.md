@@ -18,3 +18,5 @@ Navigate to the directory where the extension files (manifest.json n brave_memor
 After selecting the directory, Brave will load your extension. You should see your extension listed on the Extensions page with its icon displayed.
 
 The extension will mention having error but fuctions
+
+![Brave Memory Extension UI](https://github.com/RadaGathee/Brave-Memory-Extension/blob/RadaGathee-patch-1/braveMemoryUI.png)
